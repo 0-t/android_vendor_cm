@@ -125,7 +125,6 @@ PRODUCT_PACKAGES += \
 
 # Optional CM packages
 PRODUCT_PACKAGES += \
-    VoicePlus \
     Basic \
     libemoji
 
@@ -137,13 +136,8 @@ PRODUCT_PACKAGES += \
     DSPManager \
     libcyanogen-dsp \
     audio_effects.conf \
-    CMWallpapers \
     Apollo \
-    CMFileManager \
-    LockClock \
-    CMUpdater \
-    CMFota \
-    CMAccount
+    LockClock
 
 # CM Hardware Abstraction Framework
 PRODUCT_PACKAGES += \
